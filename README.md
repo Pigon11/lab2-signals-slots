@@ -28,9 +28,12 @@
 ## Скриншоты
 
 ### Стартовое окно
-<img width="658" height="522" alt="Стартовое окно" src="https://github.com/user-attachments/assets/4b9b2657-6bcb-4404-95a4-1eaed1298d92" />
+<img width="691" height="538" alt="image" src="https://github.com/user-attachments/assets/3b5f3b87-4a30-4aff-a136-d072852e39b1" />
 
 ### Перевод 1 мили
+<img width="658" height="522" alt="Стартовое окно" src="https://github.com/user-attachments/assets/4b9b2657-6bcb-4404-95a4-1eaed1298d92" />
+
+### Перевод 1 фута
 <img width="669" height="520" alt="Перевод 1 мили" src="https://github.com/user-attachments/assets/0bad292b-f0e5-4fd7-a617-d55881c96fa7" />
 
 ## Технологии
